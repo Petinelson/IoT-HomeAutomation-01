@@ -2,6 +2,8 @@
 
 Este repositório contém um projeto de sistema inteligente utilizando um microcontrolador ESP32, focado em exibir informações sobre diversos dispositivos como Ar-Condicionado, Iluminação, Portão e sistema de câmeras. Utilizando componentes como LED, pushbutton e tela OLED, o sistema permite que o usuário visualize o status dos dispositivos de forma interativa e visual.
 
+![Imagem do Projeto](https://github.com/Petinelson/IoT-HomeAutomation-01/blob/main/imagem_do_projeto.jpg)
+
 ## Sobre o Projeto
 
 O objetivo deste projeto é fornecer uma ferramenta educacional para alunos de cursos técnicos aprenderem sobre a aplicação de tecnologias IoT na prática. O sistema não controla os dispositivos diretamente, mas exibe informações na tela OLED, permitindo que o usuário observe o status operacional de cada dispositivo. Um LED complementa a interface, indicando visualmente se os dispositivos estão ativos ou não.
