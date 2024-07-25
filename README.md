@@ -8,6 +8,8 @@ Este repositório contém um projeto de sistema inteligente utilizando um microc
 
 O objetivo deste projeto é fornecer uma ferramenta educacional para alunos de cursos técnicos aprenderem sobre a aplicação de tecnologias IoT na prática. O sistema não controla os dispositivos diretamente, mas exibe informações na tela OLED, permitindo que o usuário observe o status operacional de cada dispositivo. Um LED complementa a interface, indicando visualmente se os dispositivos estão ativos ou não.
 
+[Link do projeto](https://wokwi.com/projects/396874784633846785)
+
 ## Componentes
 
 - **ESP32**: Microcontrolador utilizado para o processamento das informações.
